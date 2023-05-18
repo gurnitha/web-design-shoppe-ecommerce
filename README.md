@@ -15,3 +15,11 @@ Learning webdesign by Yatit on Udemy.com
 
         modified:   README.md
         modified:   shoppe.html
+
+
+#### 3. Confirm CSS Linking with Core Styles
+
+        new file:   .gitignore
+        modified:   README.md
+        modified:   shoppe.css
+        modified:   shoppe.html
