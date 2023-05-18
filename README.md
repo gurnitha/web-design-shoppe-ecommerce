@@ -6,3 +6,6 @@ Learning webdesign by Yatit on Udemy.com
 
 
 #### 1. Introduction and Create github repo
+
+
+## Section 2: Part 1 - Create an eCommerce Product Listing Page
