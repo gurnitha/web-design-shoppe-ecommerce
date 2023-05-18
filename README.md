@@ -9,3 +9,9 @@ Learning webdesign by Yatit on Udemy.com
 
 
 ## Section 2: Part 1 - Create an eCommerce Product Listing Page
+
+
+#### 2. Navigation Menu HTML
+
+        modified:   README.md
+        modified:   shoppe.html
