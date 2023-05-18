@@ -23,3 +23,13 @@ Learning webdesign by Yatit on Udemy.com
         modified:   README.md
         modified:   shoppe.css
         modified:   shoppe.html
+
+
+#### 4. Add Navigation Icons
+
+        modified:   README.md
+        new file:   account.svg
+        new file:   cart.svg
+        new file:   search.svg
+        modified:   shoppe.css
+        modified:   shoppe.html
